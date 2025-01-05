@@ -1,4 +1,4 @@
-
+![logo](https://github.com/GajeraAkshit/GajeraAkshit/blob/main/GA.png)
 
 <h1 align="center">Hi 👋, I'm Akshit Gajera</h1>
 <h3 align="center">A passionate Full-stack, CMS & E-commerce developer from India.</h3>
